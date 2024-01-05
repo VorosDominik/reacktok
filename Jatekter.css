@@ -1,0 +1,9 @@
+.Jatekter {
+    margin: auto;
+   
+    width: 96px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+}
+h3{text-align: center;}

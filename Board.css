@@ -1,0 +1,7 @@
+.Board {
+    display: grid;
+    width: 100px;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: auto;
+    padding-left: 15px;
+}
